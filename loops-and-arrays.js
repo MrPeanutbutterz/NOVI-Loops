@@ -14,13 +14,13 @@ const names = ["Henk", "Piet", "Fred", "Joop"];
 
 console.log(names)
 
-let koosnaam = []
+let addonName = []
 
 for (let i = 0; i < names.length; i++) {
-    koosnaam[i] = names[i] + "tje"
+    addonName[i] = names[i] + "tje"
 }
 
-console.log(koosnaam)
+console.log(addonName)
 
 // ==========================================
 // Opdracht 2
